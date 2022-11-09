@@ -36,7 +36,9 @@ python detect.py --weights ./yolov7-tiny.pt --conf 0.25 --img-size 1920 --source
 python detect.py --weights ./yolov7-w6-person.pt --conf 0.25 --img-size 1920 --source image_test/1660626000.jpg
 ```
 
+## Licence
 
+Seyf Eddine
 
 
 
